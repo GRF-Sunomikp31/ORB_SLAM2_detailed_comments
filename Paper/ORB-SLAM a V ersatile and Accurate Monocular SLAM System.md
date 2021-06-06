@@ -45,7 +45,7 @@
 
 ### 系统概述
 
-![1](C:\Users\lenovo\Desktop\ORB-SLAM2\ORB-SLAM2课程笔记\IMG\1.png)
+![1](https://github.com/GRF-Sunomikp31/ORB_SLAM2_detailed_comments/blob/master/Paper/IMG/1.png)
 
 A.特征选择：
 
