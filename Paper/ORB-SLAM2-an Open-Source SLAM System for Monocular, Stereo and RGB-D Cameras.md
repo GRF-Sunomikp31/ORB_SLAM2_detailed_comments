@@ -8,7 +8,7 @@
 
 ## Methods
 
-![2](C:\Users\lenovo\Desktop\ORB-SLAM2\ORB-SLAM2课程笔记\IMG\2.png)
+![2](https://github.com/GRF-Sunomikp31/ORB_SLAM2_detailed_comments/blob/master/Paper/IMG/2.png)
 
 Local BA：只优化当前帧；
 
