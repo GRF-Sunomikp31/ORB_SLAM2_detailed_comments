@@ -84,7 +84,7 @@ SIM3:几何验证；
 
 共视图：节点是关键帧，边是关键帧之间的共同观测地图点的数目（至少15个）；
 
-![3](C:\Users\lenovo\Desktop\ORB-SLAM2\ORB-SLAM2课程笔记\IMG\3.png)
+![3](https://github.com/GRF-Sunomikp31/ORB_SLAM2_detailed_comments/blob/master/Notes/IMG/3.png)
 
 共视图是为了：一级相邻和二级相邻优化一次位姿（增加更多关键帧之间信息去优化）；知识提供一种结构关系，可以用到很多地方优化；
 
